@@ -19,7 +19,9 @@ Wifi Connection Controller  <br>
   <a href="#how-to-use">How To Use</a> •
 </p>
 
-![screenshot](https://i.ibb.co/fG504Jr/test.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/fG504Jr/test.jpg" />
+</p>
 
 
 ## Key Features
