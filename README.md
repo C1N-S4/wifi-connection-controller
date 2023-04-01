@@ -18,7 +18,10 @@ Wifi Connection Controller  <br>
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
 </p>
-![screenshot]([https://ibb.co/R4mHz8Q)
+
+![screenshot](https://i.ibb.co/fG504Jr/test.jpg)
+
+
 ## Key Features
 * Screen recording: Record your screen and save it as an MP4 file.
 * Automatic file naming: If a file with the same name already exists, the program automatically creates a new file with a different name.
