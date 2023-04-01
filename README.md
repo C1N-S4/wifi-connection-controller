@@ -25,9 +25,11 @@ Wifi Connection Controller  <br>
 
 
 ## Key Features
-* Screen recording: Record your screen and save it as an MP4 file.
-* Automatic file naming: If a file with the same name already exists, the program automatically creates a new file with a different name.
-* Customizable frame rate: Set the frame rate for your screen recording.
+* Records WiFi connection speed and disconnection events
+* Generates a graph of connection speed over time
+* Displays connection speed in Mbps
+* Indicates whether the connection speed has decreased or increased compared to the previous measurement
+* Stores up to 10 measurements and displays statistics on the number of speed increases and decreases
 ## How To Use
 
 To use this script, you will need to have Python 3 installed on your machine,
@@ -35,19 +37,20 @@ To use this script, you will need to have Python 3 installed on your machine,
 Once you have the necessary dependencies, follow these steps:
 
 ```bash
-
-numpy: Run pip install numpy in your command prompt or terminal to install the numpy library.
-
-imageio: Run pip install imageio to install the imageio library.
-
-pyautogui: Run pip install pyautogui to install the pyautogui library.
-
-os: The os library comes pre-installed with Python and should not require any additional installation.
+Clone or download the repository to your computer.
+Make sure you have Python 3 installed on your system.
+Open a terminal or command prompt and navigate to the directory where the script is located.
+Run the script with the command python wifi_speed_tracker.py.
+The script will run in the background and record WiFi connection speed and disconnection events every 2 minutes.
+After 10 measurements, a graph of connection speed over time will be displayed.
+The statistics on the number of speed increases and decreases will be displayed below the graph.
 
 ```
 
 > **Note**
-> To use the required libraries in your Python code, you need to install them using pip. Here are the commands to install the libraries
+> You need to install the speedtest-cli and matplotlib libraries using pip to use this script. You can do so with the following commands: pip install speedtest-cli
+pip install matplotlib
+
 
 
 ## Recent projects
