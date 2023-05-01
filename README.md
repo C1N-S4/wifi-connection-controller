@@ -6,7 +6,7 @@
 Wifi Connection Controller  <br>
 </h1>
 
-<h4 align="center">Version 0.7<a href="http://www.anumverse.com/" target="_blank">Anumverse</a></h4>
+<h4 align="center">Version 0.8<a href="http://www.anumverse.com/" target="_blank">Anumverse</a></h4>
 
 <p align="center">
   <a href="https://www.paypal.me/">
